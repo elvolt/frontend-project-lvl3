@@ -6,3 +6,5 @@
 [![Actions Status](https://github.com/elvolt/frontend-project-lvl3/workflows/Node%20CI/badge.svg)](https://github.com/elvolt/frontend-project-lvl3/actions)
 
 Rss Reader – сервис для агрегации RSS-потоков, с помощью которых удобно читать разнообразные источники, например, блоги. Он позволяет добавлять неограниченное количество RSS-лент, сам их обновляет и добавляет новые записи в общий поток.
+
+[Перейти на сайт проекта](https://rss-reader-elvolt.vercel.app/)
